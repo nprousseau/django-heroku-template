@@ -1,0 +1,1 @@
+# Django-Heroku Project Template
